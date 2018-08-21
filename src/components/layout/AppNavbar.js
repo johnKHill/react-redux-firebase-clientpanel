@@ -82,7 +82,7 @@ class AppNavBar extends Component {
     }
 }
 
-AppNavBar.proptypes = {
+AppNavBar.propTypes = {
     firebase: PropTypes.object.isRequired,
     auth: PropTypes.object.isRequired
 };

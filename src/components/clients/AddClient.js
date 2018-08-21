@@ -122,7 +122,7 @@ class AddClient  extends Component {
 }
 
 
-AddClient.prototypes = {
+AddClient.propTypes = {
   firestore: PropTypes.object.isRequired
 }
 

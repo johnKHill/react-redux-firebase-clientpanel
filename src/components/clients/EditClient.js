@@ -129,7 +129,7 @@ class EditClient extends Component {
   }
 }
 
-EditClient.proptypes = {
+EditClient.propTypes = {
   firestore: PropTypes.object.isRequired
 }
 

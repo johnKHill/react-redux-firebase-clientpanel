@@ -149,7 +149,7 @@ class ClientDetails extends Component {
   }
 }
 
-ClientDetails.proptypes = {
+ClientDetails.propTypes = {
   firestore: PropTypes.object.isRequired
 }
 
