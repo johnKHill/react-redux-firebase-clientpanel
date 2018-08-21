@@ -75,7 +75,7 @@ class Clients extends Component {
             </tbody>
           </table> 
           </div>
-        </div> //boom!
+        </div> 
       );  
     } else {
       return <Spinner />
